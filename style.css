@@ -1,0 +1,16 @@
+body{
+    background-image: url("images.jfif");
+    background-position: center;
+}
+.heading{
+    color: blue;
+    margin:0px;
+    width:100%;
+}
+.footer{
+    width:100%;
+    position:fixed;
+    bottom:0px;
+    line-height:3;
+
+}
